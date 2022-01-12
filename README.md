@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://your-solution-url.com)
-- Live Site URL: [View on Browser](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/waltersono/article-preview-component)
+- Live Site URL: [View on Browser](https://waltersono.github.io/article-preview-component/)
 
 ## My process
 
